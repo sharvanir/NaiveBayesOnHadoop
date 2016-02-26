@@ -16,8 +16,6 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
 /**
- * @author Shannon Quinn
- *
  * Sums the log probabilities for the document.
  */
 @SuppressWarnings("deprecation")
